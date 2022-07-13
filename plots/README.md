@@ -1,9 +1,9 @@
-# The following files are present.
+### The following plots are present.
 - Delta
     - [Lineage Distribution](delta_d3_t1_Pango_lineage_freq_plot.html)
     - [Country Distribution](delta_d3_t1_country_freq_plot.html)
 - Omicron
-    - [Lineage Distribution](omicron_d4_t2_country_freq_plot.html)
+    - [Lineage Distribution](omicron_d4_t2_Pango_lineage_freq_plot.html)
     - [Country Distribution](omicron_d4_t2_country_freq_plot.html)
 - Miscellaneous
     - [Lockdown](lockdown.html)
