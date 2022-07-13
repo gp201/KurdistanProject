@@ -1,0 +1,11 @@
+# The following files are present.
+- Delta
+    - [Lineage Distribution](delta_d3_t1_Pango_lineage_freq_plot.html)
+    - [Country Distribution](delta_d3_t1_country_freq_plot.html)
+- Omicron
+    - [Lineage Distribution](omicron_d4_t2_country_freq_plot.html)
+    - [Country Distribution](omicron_d4_t2_country_freq_plot.html)
+- Miscellaneous
+    - [Lockdown](lockdown.html)
+    - [Kurdistan Lineage Distribution](KURPango_lineage_freq_plot.html)
+    - [Kurdistan Epi curve and samples per day](KUR_epi_samples.html)
